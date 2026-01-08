@@ -94,4 +94,5 @@ O projeto demonstra domínio de JavaScript puro (Vanilla JS) e lógica de desenv
 
 ---
 - Equipe: Pedro Arthur, Miguel Sthevão, Emanuel Rodrigues
+
 *Desafio Criativo – Desenvolvimento de Jogos Web*
